@@ -5,6 +5,12 @@
 
 ---
 
+* https://github.com/ericrenone/ERI-Labs-Integrated-Scientific-Discovery-and-Biomolecular-Engineering-Frameworks
+
+* https://github.com/ericrenone/BIO-INFORMATION-COMPLETION-July-24-2026
+
+---
+
 ## EXECUTIVE SYNTHESIS
 
 The translation machinery—ribosome, mRNA, tRNA, amino acids—is not merely a mechanical printer. It is an information-processing system that exhibits the same φ-equilibrium properties identified in autonomous discovery systems, protein folding landscapes, and viral escape dynamics.
